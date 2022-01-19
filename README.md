@@ -1,4 +1,10 @@
 ### Hi there 👋
+## My name is Ida Gullstrand
+- 🔭 I’m currently studying Web Development at Mid Sweden University.
+- 🌱 I’m currently learning about Databasesystems, Git and PHP.
+- 😄 I have some experience in HTML, CSS, JavaScript, Typography and Image processing.
+- ⚡ Fun fact: I love Liverpool FC.
+
 
 <!--
 **idagullstrand/idagullstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
