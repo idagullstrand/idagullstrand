@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is Ida Gullstrand
 - 🔭 I’m currently studying Web Development at Mid Sweden University.
-- 🌱 I’m currently learning about Databasesystems, Git and PHP.
+- 🌱 I’m currently learning about Database systems, Git and PHP.
 - 😄 I have experience in HTML, CSS, JavaScript, Typography and Image processing.
 - ⚡ Fun fact: I love Liverpool FC.
 
